@@ -1,3 +1,4 @@
+//Download bluetooth controlled app from the repo titled MIT App Inventor Projects
 #include <SoftwareSerial.h>
 SoftwareSerial bt (0, 1);
 
